@@ -1,5 +1,5 @@
 # flak
 
-An experiment: A small native (x86) functional language compiler, just to see how small it could be.
+An experiment: A small native (x86) functional language compiler, just to see how small it can be.
 
-Pending upload.
+Pending review and upload.
