@@ -1,0 +1,7 @@
+#! /usr/bin/env flak 
+
+-- tests native codegen
+-- note: limited to integers and simple arithmetic
+
+_ = ((2000+(8*1000)+(((9*9*9)+271)*10))-(2500*4))^2 -- result = 100,000,000 :)
+
