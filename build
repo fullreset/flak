@@ -1,0 +1,1 @@
+clang++ -march=native -m32  -I../../mesongc -O3 -I. -Wno-constant-conversion ../../mesongc/mesongc.c flak.cc -o flak
