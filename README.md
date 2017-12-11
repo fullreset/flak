@@ -4,4 +4,4 @@ An experiment: A small (unfinished!) JIT-compiled (x86) functional language -- j
 
 One day I will revisit this ... 
 
-For now I ask that you share your chnages with me; that would be kimd. :)
+For now I ask that you share your changes with me; that would be kimd. :)
