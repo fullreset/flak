@@ -2,6 +2,6 @@
 
 An experiment: A small (unfinished!) JIT-compiled (x86) functional language -- just to see how small it can be.
 
-It's a glorified calculator, but one day I will revisit this ... 
+And I'm sure this can be under 1k lines and still be a real/usable language. But for now it's just a glorified calculator with extra features. 
 
-For now I ask that you share your changes with me; that would be kind. :)
+If you make improvements, please share; that would be kind. :) MIT license, as per header file.
