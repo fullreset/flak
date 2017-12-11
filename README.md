@@ -2,4 +2,6 @@
 
 An experiment: A small (unfinished!) JIT-compiled (x86) functional language -- just to see how small it can be.
 
-Pending review and upload.
+One day I will revisit this ... 
+
+For now I ask that you share your chnages with me; that would be kimd. :)
