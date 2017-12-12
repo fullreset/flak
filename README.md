@@ -2,7 +2,7 @@
 
 An experiment: A small (unfinished!) JIT-compiled (x86) functional language -- just to see how small it can be.
 
-And I'm sure this can be under 1k lines and still be a real/usable language. But for now it's just a glorified calculator with extra features. 
+And I'm sure this can remain under 1k lines and still be a real/usable language -- but for now it's just a glorified calculator with extra features. ^^
 
 # building
 
