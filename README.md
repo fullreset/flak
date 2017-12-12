@@ -6,7 +6,7 @@ And I'm sure this can remain under 1k lines and still be a real/usable language 
 
 # building
 
-The makefile just invokes `./build`; and `build` assumes clang++ is present. Edit as needed. :)
+The `makefile` just invokes `./build`; and `build` assumes clang++ is present. Edit as needed. :)
 
 # license
 
