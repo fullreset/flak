@@ -10,4 +10,4 @@ The `makefile` just invokes `./build`; and `build` assumes clang++ is present. E
 
 # license
 
-If you make improvements, please share; that would be kind. :) BSD license, as per flak.k and LICENSE.
+If you make improvements, please share; that would be kind. :) BSD license, as per flak.h and LICENSE.
